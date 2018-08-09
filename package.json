@@ -1,7 +1,8 @@
 {
-  "main": "dom-purify.js",
+  "name": "@mkazlauskas/dom-purify",
   "description": "Simple commponent that uses the DOMPurify library to sanitize it's content.",
   "version": "2.5.1",
+  "main": "dom-purify.js",
   "scripts": {
     "start": "polymer serve --npm"
   },
@@ -14,7 +15,6 @@
     "security"
   ],
   "homepage": "https://github.com/pkaske/dom-purify/",
-  "name": "dom-purify",
   "contributors": [
     "Peter Kaske <p.kaske@gmail.com>",
     "Martynas Kazlauskas <martynas@firmfirm.co>"
