@@ -1,7 +1,7 @@
 {
   "main": "dom-purify.js",
   "description": "Simple commponent that uses the DOMPurify library to sanitize it's content.",
-  "version": "2.5.0",
+  "version": "2.5.1",
   "scripts": {
     "start": "polymer serve --npm"
   },
