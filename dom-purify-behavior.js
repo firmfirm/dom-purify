@@ -7,7 +7,7 @@ Or see the LICENSE file that comes with this code.
 import '@polymer/polymer/polymer-legacy.js';
 
 import { dedupingMixin } from '@polymer/polymer/lib/utils/mixin.js';
-import 'dompurify/dist/purify.js';
+import DOMPurify from 'dompurify/dist/purify.es.js';
 window.FBehavior = window.FBehavior || {};
 
 /**
